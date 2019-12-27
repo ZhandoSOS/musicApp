@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145707571133",
+    "firebase_url": "https://dindon-7cfa7.firebaseio.com",
+    "project_id": "dindon-7cfa7",
+    "storage_bucket": "dindon-7cfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145707571133:android:a41705e0e93bdc747124d4",
+        "android_client_info": {
+          "package_name": "din.don.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145707571133-42fav3m9i10bsonqrltjflh9tirs3k9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbx_VMMGOax0XwUp8ObAogRI_FZLKEnY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145707571133-42fav3m9i10bsonqrltjflh9tirs3k9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
